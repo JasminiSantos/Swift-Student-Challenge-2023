@@ -1,14 +1,13 @@
-# Swift Student Challenge 2023
-
-##  App
+# Swift Student Challenge 2023 - Clara and the Heroines of Tejucupapo
+## 📱 App
 
 - The app is an interactive storytelling experience that aims to bring visibility to the little-known story of Clara Camarão, a Potiguar indigenous woman who played an important role in leading a women's indigenous troop in battles against invaders of their territories during the colonial period in Brazil.
 - Through the use of SwiftUI, SpriteKit, and AVFoundation, the app allows users to engage with the story and learn more about Clara Camarão's life and contributions to Brazilian history.
 - By highlighting Clara Camarão's bravery and the strength of her companions, the app seeks to celebrate and honor the memory of these indigenous women and raise awareness about their cultural and historical significance.
 
-## Video
+## 🎬 Video
 
-## Design
+## 🎨 Design
 ### Resources
 
 - I used Figma to create a brainstorm and workflow for my app. It was really helpful to visualize the different screens and transitions. Additionally, I also used Figma to design and draw all the assets in the story, including backgrounds, characters and objects. It was great to have everything in one place and be able to make changes quickly and easily. Overall, Figma was a crucial tool in the design and development of my interactive experience;
@@ -27,6 +26,16 @@ I began by creating a frame for each scene I imagined, starting with the first s
 
 One of the benefits of using Figma for this process is that it allowed me to easily review my ideas and make changes as needed. I could move frames around, adjust the elements, and refine the details until I was satisfied with the overall structure of the game.
 
+<p align="center">
+<img src="Images/image1.png" alt="App icon mage" width="800">
+</p>
+
+<p align="center">
+<img src="Images/image2.png" alt="App icon mage" width="800">
+</p>
+
+[Figma Project](https://www.figma.com/file/ADG8dPuK9XtCdTYbQ1toAv/Swift-Student-Challenge?type=design)
+
 ### UI/UX
 
 - I made the decision to create my own assets. I knew that this would be the best way to maintain consistency in my project and create a unique look that represented the Brazilian northeast and Potiguar culture in an authentic way. While creating my own assets was time-consuming, it was ultimately worth it;
@@ -43,15 +52,35 @@ One of the benefits of using Figma for this process is that it allowed me to eas
 
 - Selecting an icon for my app was a straightforward process, as I simply used the same image from the main menu.
 
+<p align="center">
+<img src="Images/AppIcon.png" alt="App icon mage" width="500">
+</p>
+
 ### Assets
 
 All assets present in the app were created by me and are drawing inspirations from Brazilian northeast and Potiguar culture. A few assets from my app:
+
+<p align="center">
+<img src="Images/image3.png" alt="App icon mage" width="500">
+</p>
+
+<p align="center">
+<img src="Images/image4.png" alt="App icon mage" width="500">
+</p>
+
+<p align="center">
+<img src="Images/image5.png" alt="App icon mage" width="400">
+</p>
+
+<p align="center">
+<img src="Images/image6.png" alt="App icon mage" width="400">
+</p>
 
 ### Challenges
 
 - I was able to design and implement my app relatively quickly, but I had some insecurities about the storytelling and the overall engagement of the app. To address these concerns, I sought feedback from colleagues and mentors to improve the user experience and make it more emotionally impactful. Ultimately, I am proud of what I achieved in creating an app that represents the story of Clara and the Heroines of Tejucupapo.
 
-## Coding
+## 👩🏻‍💻 Coding
 
 ### Resources
 
@@ -59,7 +88,7 @@ All assets present in the app were created by me and are drawing inspirations fr
 - To develop my interactive experience, I used SwiftUI, SpriteKit and AVFoundation. SwiftUI was useful to organize the architecture of the app with the game manager and create the transitions between scenes. AVFoundation was important to implement the background music for my app. In addition, I chose the SpriteKit framework because of the wide variety of interesting features it offers to create dynamic scenes with animations.
 - My colleagues helped me with suggestions on how to implement some elements from my app, such as adding music background to the scenes and fixing some bugs.
 
-### Technologies
+###  Technologies
 
 - SwiftUI;
 - SpriteKit;
